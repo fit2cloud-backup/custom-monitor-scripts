@@ -32,3 +32,4 @@ else
     Qcache_used=`expr $Qcache_total - $Qcache_free`
     Qcache_percent=$(echo "scale=2;$Qcache_used/$Qcache_total*100" | bc)
     echo $Qcache_percent
+fi
