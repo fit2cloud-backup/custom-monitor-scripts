@@ -11,3 +11,4 @@
   - [WebLogic](https://github.com/fit2cloud/custom-monitor-scripts/tree/master/Linux/WebLogic)
 * Windows
   - [Service](https://github.com/fit2cloud/custom-monitor-scripts/tree/master/Windows/Service)
+  - [PortStatics](https://github.com/fit2cloud/custom-monitor-scripts/tree/master/Windows/Service)
