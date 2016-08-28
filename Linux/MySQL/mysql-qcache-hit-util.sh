@@ -30,3 +30,4 @@ if [ $Qcache_queries -eq 0 ];then
 Else
     Qcache_hits_percent=$(echo "scale=2;$Qcache_hits/$Qcache_queries*100" | bc)
     echo $Qcache_percent
+fi
